@@ -3,7 +3,7 @@
 <suite name="Test Suite" parallel="false">
     <test name="Test Set">
         <classes>
-            <class name="TestCases.SearchWithWrongLocator" />
+            <class name="TestCases.DarazSearchTestBuyItNow" />
         </classes>
     </test>
 </suite>
